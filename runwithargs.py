@@ -1,6 +1,4 @@
 import os, sys
-from tkinter import *
-from tkinter import messagebox
 import time
 from colorama import *
 import time
